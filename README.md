@@ -3,6 +3,9 @@
 > 记录看过的书、电影、动漫、电视剧的个人收纳 App。纯本地存储，离线可用，无需登录。
 > 先是一个好用的「记录本」，再是一个能和朋友交换轨迹、发现好作品的「社交工具」。
 
+[![下载 APK](https://img.shields.io/badge/下载-APK%20v1.3.0-7C9A92?style=for-the-badge)](https://github.com/DDwillow/-/releases/download/v1.3.0/guanyue-trajectory-v1.3.0.apk)
+[![Releases](https://img.shields.io/badge/查看-Releases-5F7D75?style=for-the-badge)](https://github.com/DDwillow/-/releases)
+
 ## 一、记录本身（核心基础）
 
 先把「记录」这件事做好，这是软件的根。
