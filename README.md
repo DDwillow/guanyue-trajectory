@@ -53,6 +53,16 @@
 - **清爽莫兰迪 UI**：低饱和青灰色调，简洁耐看，带开屏页
 - **纯本地存储**：SQLite，无后端、无账号、无联网依赖，隐私完全在自己手里
 
+## 界面截图
+
+| 首页记录列表 | 编辑记录 | 好友轨迹 |
+|:---:|:---:|:---:|
+| ![首页](docs/screenshots/home-list.jpg) | ![编辑](docs/screenshots/edit.jpg) | ![好友轨迹](docs/screenshots/friend-list.jpg) |
+
+| 好友详情 | AI 对比分析 | 设置 |
+|:---:|:---:|:---:|
+| ![好友详情](docs/screenshots/friend-detail.jpg) | ![AI 对比分析](docs/screenshots/friend-analysis.jpg) | ![设置](docs/screenshots/settings.jpg) |
+
 ## 技术栈
 
 - Flutter 3.x + Dart 3
